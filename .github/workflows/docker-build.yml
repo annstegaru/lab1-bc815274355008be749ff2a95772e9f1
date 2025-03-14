@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: annstegaru/cloudcomputing:example
+          tags: annstegaru/cloudcomputing:latest
